@@ -1,6 +1,6 @@
 # Blasteroids
 
-Asteroids arcade game with Allegro library.
+Blasteroids arcade game with Allegro library.
 
 ## Build
 
